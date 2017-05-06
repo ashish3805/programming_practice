@@ -1,0 +1,66 @@
+Q.1 Create a Singly Linked List and perforn following opertaion on it-
+       
+i).  Insert a node at middle of the linked list.
+	   
+ii). Insert a node at the last of the linked list.
+	   
+iii). Delete first node of a linked list.
+       
+iv). Delete middile node of a linked list.
+       
+v).  Delete last node of a linked list. 
+
+Q.2 Create a Doubly Linked List and perforn following opertaion on it-
+         
+i).  Insert a node at middle of the Doubly linked list.
+	    
+ii). Insert a node at the last of the Doubly linked list.
+	   
+ iii). Delete first node of a Doubly linked list.
+        
+iv). Delete middile node of a Doubly linked list.
+        
+v).  Delete last node of a Doubly linked list. 
+
+Q.3 Create a Circular Singly Linked List and perforn following opertaion on it-
+      
+ i).  Insert a node at middle of the Circular Singly linked list.
+	   
+ii). Insert a node at the last of the Circular Singly linked list.
+	   
+iii). Delete first node of a Circular Singly linked list.
+       
+iv). Delete middile node of a Circular Singly linked list.
+       
+v).  Delete last node of a Circular Singly linked list. 
+
+Q.4 Create a Circular Doubly Linked List and perforn following opertaion on it-
+       
+i).  Insert a node at middle of the Circular Doubly linked list.
+	   
+ii). Insert a node at the last of the Circular Doubly linked list.
+	   
+iii). Delete first node of a Circular Doubly linked list.
+       
+iv). Delete middile node of a Circular Doubly linked list.
+      
+ v).  Delete last node of a Circular Doubly linked list. 
+
+Q.5 Given a linked list and two integers M and N. Traverse the linked list such that you retain M nodes 
+then delete next N nodes, continue the same until end of the linked list. 
+      
+Input: M = 2, N = 2 Linked List: 1->2->3->4->5->6->7->8 Output: Linked List: 1->2->5->6 
+
+Q.6 Write a program to print elements of a singly linked list in reverse.
+
+Q.7 write a prograam that will delete any duplicates node from the linked list.
+ 
+Q.8 Given a linked list and a number k. Reverse every k nodes in the list. 
+Example : Input 1->2->3->4->5->6 and k = 2 Output 2->1->4->3->6->5.
+
+Q.9 Given two linked lists, insert nodes of second list into first list at alternate positions of first list. 
+eg. 1->5->7->3->9    6->10->2->4, 
+       the first list should become 1->6->5->10->7->2->3->4->9 
+and second list should become empty.
+
+Q.10 Write a C function that moves last element to front in a given Singly Linked List.

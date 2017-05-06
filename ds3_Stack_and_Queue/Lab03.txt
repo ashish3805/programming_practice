@@ -1,0 +1,24 @@
+Q.1 write a program to show stack operation using array
+.
+Q.2 implement stack using linked list
+.
+Q.3 sort the element of a given stack by only using another stack and push, pop opertaion.
+
+Q.4 How can you implement two stacks in a single array, where no stack overflows until no space left in the entire array space?
+
+Q.5 Design a stack using queue
+.
+Q.6 implement a Doubly linked list using Stack(As much you required)
+.
+Q.7 implement Queue using array.
+
+Q.8 implement Queue using linked list.
+
+Q.9  Given two integer sequences, one of which is the push sequence of a stack,
+ please check whether the other sequence is a corresponding pop sequence or not. 
+
+For example, if 1, 2, 3, 4, 5 is a push sequence, 4, 5, 3, 2, 1 is a corresponding pop sequence,
+ but the sequence 4, 3, 5, 1, 2 is not.
+Q. 
+10 implement a queue using stack(as much as required).
+
