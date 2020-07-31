@@ -1,4 +1,5 @@
 # What you should know
+- Best is Omega, Average is Theta, Worst is big-Oh
 - Sum of GP. Finite increasing sum.
 - Other serieses and their Sum.
 - Square root is greater than log
@@ -15,6 +16,7 @@
     - then conditions on a,b,k, p belongs to R.
     - conditions on a related to b^k
         - conditons on p wrt 1
+- Be careful with quetions using memo tables. Like those of DP. As they reduce the no of subpproblems.
 
 ## Amortised Analysis
 some well determined worst case. Like that of dynamic arrays.
