@@ -1,7 +1,7 @@
 # What you should know
 - Best is Omega, Average is Theta, Worst is big-Oh
 - Sum of GP. Finite increasing sum.
-- Other serieses and their Sum.
+- Other series and their Sum.
 - Square root is greater than log
 - differentiate to know the growth fn.
 - Compare functions by:

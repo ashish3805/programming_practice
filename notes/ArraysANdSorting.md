@@ -15,4 +15,16 @@
 [Java Code](../java/InsertionSort.java)
 
 ## Merge Sort
-- Divide and Conq
+- Divide and Conquer Paradigm
+- There are logN sub-problems, and it takes Theta(N) to solve one.
+- Average, Worst and Best all are same hence Theta(N).
+- Space Complexity for merge procedure is O(N), and the stack for a recursion requires O(logN) space.
+- Infinities in sub arrays in merge procedure can be used to avoid loops.
+[Java Code](../java/MergeSort.java)
+
+
+## Quick Sort
+- Idea is an element if placed at its right position has all elements left to it as less and all element right to it greater.
+- So, For an Array A[p,r] the q th element can be placed in right place in an iteration then, A[p,q-1] & A[q+1, r] can be sorted.
+- The PARTITION procedure places the qth element at its right place in a run and returns q.
+- Worst case is O(N square), but its in place, avg case is O(nlogn) and works for Virtual Memory.
