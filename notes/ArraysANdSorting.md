@@ -8,5 +8,11 @@
 - Worst case is usually O(n^2) 
 
 ## Insertion Sort
-Omega(n), Theta(n square), O(n spuare)
+- Omega(n), Theta(n square), O(n spuare)
+- Loop Invariant: 
+    - After ith iteration first i elements are sorted.
+    - After ith iteration A[0,9] are sorted.
 [Java Code](../java/InsertionSort.java)
+
+## Merge Sort
+- Divide and Conq
