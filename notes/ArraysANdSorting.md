@@ -28,3 +28,15 @@
 - So, For an Array A[p,r] the q th element can be placed in right place in an iteration then, A[p,q-1] & A[q+1, r] can be sorted.
 - The PARTITION procedure places the qth element at its right place in a run and returns q.
 - Worst case is O(N square), but its in place, avg case is O(nlogn) and works for Virtual Memory.
+- you can avoid running both i and j from both ends. See impl [Java Code](../java/QuickSort.java)
+
+## Bubble Sort
+- intuitive and easy, runs in O(n square)
+- in each iteration the ith largest element gets to its correct position.
+[Java Code](../java/BubbleSort.java)
+- once in an iteration completes with no swap. we can terminate the program. use sorted flag for this.
+
+## Selection Sort
+- select the least ith element in ith iteration and put it in the sorted array, boundary indicated by 'i'.
+- runs in O(n square)
+- [Java Code](../java/SelectionSort.java)
